@@ -1,0 +1,3 @@
+
+Running Gradle task 'assembleDebug'...                             14.6s
+Gradle build failed to produce an .apk file. It's likely that this file was generated under C:\Users\Defen\Desktop\posUD\build, but the tool couldn't find it.
